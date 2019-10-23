@@ -1,0 +1,7 @@
+Array completion time :145 ms
+Array completion time :571 ms
+Array completion time :5087 ms
+Array completion time :13840 ms
+Array completion time :54255 ms
+Array completion time :219101 ms
+Array completion time :1428381 ms
